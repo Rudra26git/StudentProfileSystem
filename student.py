@@ -9,4 +9,6 @@ print("Name:", name)
 print("Age:", age)
 print("Course:", course)
 
+print("\nStudent ID:", input("Enter student ID: "))
+
 print("Profile management completed successfully.")
