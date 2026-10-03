@@ -8,3 +8,5 @@ print("\n--- Student Profile ---")
 print("Name:", name)
 print("Age:", age)
 print("Course:", course)
+
+print("Profile management completed successfully.")
