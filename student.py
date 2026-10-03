@@ -12,3 +12,5 @@ print("Course:", course)
 print("\nStudent ID:", input("Enter student ID: "))
 
 print("Profile management completed successfully.")
+
+print("Project Forked completed successfully.")
